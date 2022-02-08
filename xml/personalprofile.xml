@@ -33,7 +33,6 @@
 		        MyPlanURL = currentURLHost+URLVariable+"common/profile/plans/"+employeeID	;		         
 			    SkillSupportHelp = currentURLHost+URLVariable+"pages/pagelistview/pgcnt000000000178132"
 				MyReward = currentURLHost+URLVariable+"app/me/reward";
-				MyMobileLerning = "https://my.dxc.com/employee-resources/dxc-university/overview/dxculearningapp.html";
 			    SkillManagementURL = "https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html";
 				AccessToskillSoft="https://dxc.skillport.com/skillportfe/main.action#whatshappening";
 		    //MyRewards = currentURLHost+URLVariable+"profile/rewards/"+employeeID;
@@ -163,7 +162,7 @@ url('../res/css/GT-Walsheim-Pro-Bold.svg#svgFontName') format('svg'); /* Legacy 
 					$("a#skillmngt").attr("href", SkillManagementURL);
 					$("a#AccessToskill").attr("href", AccessToskillSoft);
 					$("a#reward").attr("href", MyReward);
-					$("a#mobilelerning").attr("href", MyMobileLerning);
+					
 	    	   
 
                 </script>		
