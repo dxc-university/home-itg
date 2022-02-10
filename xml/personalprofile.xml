@@ -161,17 +161,11 @@ url('../res/css/GT-Walsheim-Pro-Bold.svg#svgFontName') format('svg'); /* Legacy 
                     $("a#lerning").attr("href", MyCompLearningURL);
                     $("a#plan").attr("href", MyPlanURL);
                     $("a#skillSuporthelp").attr("href", SkillSupportHelp);
-					//$("a#skillmngt").attr("href", SkillManagementURL);
-					$("a#AccessToskill").attr("href", AccessToskillSoft);
-					$("a#reward").attr("href", MyReward);
-					//$("a#mobilelerning").attr("href", MyMobileLerning);
-	    	   
-
+		    //$("a#skillmngt").attr("href", SkillManagementURL);
+		    $("a#AccessToskill").attr("href", AccessToskillSoft);
+		    $("a#reward").attr("href", MyReward);
+		    //$("a#mobilelerning").attr("href", MyMobileLerning);
                 </script>		
-
-	      
-	    
-	
 	    </script>
 	  ]]>
 	  </Content>
