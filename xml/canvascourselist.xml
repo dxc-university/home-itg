@@ -210,8 +210,8 @@ url('../res/css/GT-Walsheim-Pro-Bold.svg#svgFontName') format('svg'); /* Legacy 
               <td style="padding-top: 0px; padding-left:0px; padding-bottom:0px; padding-right:0px;" colspan="2">
 
                   <div class="container">
-                      <span id="ex2" style="padding-top: 0px; padding-left:0px; padding-bottom:0px; padding-right:0px;"> <p><strong>Skills Management has moved to Workday</strong></p> </span>
-                      <span id="ex2" style="padding-top: 0px; padding-left:0px; padding-bottom:0px; padding-right:15px;"> <p> Access more information on myDXC <a href="https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html">Skills Management</a> page. </p> </span>
+                       <p><strong> Skills Management has moved to Workday </strong></p>  
+                       <p> Access more information on myDXC <a href="https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html">Skills Management</a> page. </p>  
                   </div>                  
                </td>
           </tr>
