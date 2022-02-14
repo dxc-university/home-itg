@@ -54,7 +54,7 @@ url('../res/css/GT-Walsheim-Pro-Bold.svg#svgFontName') format('svg'); /* Legacy 
 		}
 
 		a:hover {
-		  color: #5f249f;
+		  color: #000000;
 		}
 
 		.pill-button {
