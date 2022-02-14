@@ -210,9 +210,9 @@ url('../res/css/GT-Walsheim-Pro-Bold.svg#svgFontName') format('svg'); /* Legacy 
               <td style="padding-top: 50px; padding-left:0px; padding-bottom:0px; padding-right:0px;" colspan="2">
 
                   <div class="container">
-                       <p><span id="ex2" style="font-size: 20px;"><strong>Skills Management has moved to Workday</strong></span></p>
-		       <p><span id="ex2" style="font-size: 20px;">Access more information on myDXC&nbsp;<a href="https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html" target="_blank">Skills Management</a> page.</span></p>
-		       <p><span id="ex2" style="font-size: 20px;">If you have any questions, please contact&nbsp;<a href="https://dxchr.service-now.com/hrportal" target="_blank">HRConnect</a>.</span></p>
+                       <p><span id="ex2" style="font-size: 24px;"><strong>Skills Management has moved to Workday</strong></span></p>
+		       <p><span id="ex2" style="font-size: 24px;">Access more information on myDXC&nbsp;<a href="https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html" target="_blank">Skills Management</a> page.</span></p>
+		       <p><span id="ex2" style="font-size: 24px;">If you have any questions, please contact&nbsp;<a href="https://dxchr.service-now.com/hrportal" target="_blank">HRConnect</a>.</span></p>
                   </div>                  
                </td>
           </tr>
