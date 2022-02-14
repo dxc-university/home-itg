@@ -212,6 +212,7 @@ url('../res/css/GT-Walsheim-Pro-Bold.svg#svgFontName') format('svg'); /* Legacy 
                   <div class="container">
                        <p><span style="font-size: 24px;"><strong>Skills Management has moved to Workday</strong></span></p>
 		       <p><span style="font-size: 24px;">Access more information on myDXC <a href="https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html">Skills Management</a> page.</span></p>
+		       <p><span style="font-size: 24px;">If you have any questions, please contact&nbsp;<a href="https://dxchr.service-now.com/hrportal">HRConnect</a>.</span></p>
                   </div>                  
                </td>
           </tr>
